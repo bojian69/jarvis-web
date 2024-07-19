@@ -81,9 +81,9 @@ git clone https://github.com/bojian69/jarvis-web.git
 cd jarvis-web
 
 # 将 git:// 替换成 https:// 
-git config --global url."https://".insteadOf git://
+# git config --global url."https://".insteadOf git://
 
-# install dependency
+# install dependency npm版本 6.9.0 以上
 npm install
 
 # develop
