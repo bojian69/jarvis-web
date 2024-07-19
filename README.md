@@ -75,7 +75,7 @@
 
 ```bash
 # clone the project
-git clone https://github.com/bojian69/jarvis-web.git
+git clone -b admin-src ssh://git@github.com:bojian69/jarvis-web.git
 
 # enter the project directory
 cd jarvis-web
