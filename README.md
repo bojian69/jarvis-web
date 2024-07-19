@@ -75,10 +75,13 @@
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/bojian69/jarvis-web.git
 
 # enter the project directory
-cd vue-element-admin
+cd jarvis-web
+
+# 将 git:// 替换成 https:// 
+git config --global url."https://".insteadOf git://
 
 # install dependency
 npm install
